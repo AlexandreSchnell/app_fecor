@@ -17,27 +17,63 @@
       "produto": "AUTO",
       "seguradora": "SOMPO",
       "status": "ABERTA"
-    }
-  ],
-  "cadastros": [
+    },
     {
-      "id": 1,
-      "cliente": "Antonio Melo",
+      "id": 3,
+      "cliente": "Rodrigo Freitas",
       "vendedor": "Fabio",
-      "data": "12/10/2018",
+      "data": "10/09/2018",
       "produto": "RESIDENCIAL",
-      "seguradora": "BRADESCO",
+      "seguradora": "PORTO",
       "status": "GANHA"
     },
     {
-      "id": 2,
-      "cliente": "Ficticio Veículos",
-      "vendedor": "Leonardo",
-      "data": "17/04/2019",
-      "produto": "AUTO",
-      "seguradora": "SOMPO",
-      "status": "ABERTA"
+      "id": 4,
+      "cliente": "Pedro Faria",
+      "vendedor": "Alexandre",
+      "data": "17/08/2018",
+      "produto": "VIDA",
+      "seguradora": "HDI",
+      "status": "GANHA"
     }
+  ],
+  "cadastros": [
+    { 
+      "id": 1,
+      "nome": "Antonio Melo",
+      "rg": "142357689",
+      "cnh": "12345634578",
+      "endereco": "XV de Novembro 23",
+      "dataNascimento": "12/04/1978",
+      "estadoCivil": "Solteiro",
+      "telefone": "4232226565",
+      "celular": "42999887766",
+      "email": "antoniomelo@gmail.com",
+    },
+    { 
+      "id": 2,
+      "nome": "Pedro Faria",
+      "rg": "125436576",
+      "cnh": "12365434582",
+      "endereco": "Jesuino Marcondes 354",
+      "dataNascimento": "03/12/1964",
+      "estadoCivil": "Casado",
+      "telefone": "4332279897",
+      "celular": "43988774433",
+      "email": "pedrofaria@outlook.com",
+    },
+    { 
+      "id": 3,
+      "nome": "Rodrigo Freitas",
+      "rg": "456668790",
+      "cnh": "34523412345",
+      "endereco": "7 de Abril 987",
+      "dataNascimento": "28/09/1975",
+      "estadoCivil": "Casado",
+      "telefone": "4232296000",
+      "celular": "42999976578",
+      "email": "rodrigofreitas@yahoo.com",
+    },
   ],
   "profile": {
     "name": "typicode"
