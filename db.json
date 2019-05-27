@@ -48,7 +48,7 @@
       "estadoCivil": "Solteiro",
       "telefone": "4232226565",
       "celular": "42999887766",
-      "email": "antoniomelo@gmail.com",
+      "email": "antoniomelo@gmail.com"
     },
     { 
       "id": 2,
@@ -60,7 +60,7 @@
       "estadoCivil": "Casado",
       "telefone": "4332279897",
       "celular": "43988774433",
-      "email": "pedrofaria@outlook.com",
+      "email": "pedrofaria@outlook.com"
     },
     { 
       "id": 3,
@@ -72,7 +72,7 @@
       "estadoCivil": "Casado",
       "telefone": "4232296000",
       "celular": "42999976578",
-      "email": "rodrigofreitas@yahoo.com",
+      "email": "rodrigofreitas@yahoo.com"
     }
   ],
   "profile": {
