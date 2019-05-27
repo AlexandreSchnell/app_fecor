@@ -1,5 +1,25 @@
 {
-  "posts": [
+  "prospects": [
+    {
+      "id": 1,
+      "cliente": "Antonio Melo",
+      "vendedor": "Fabio",
+      "data": "12/10/2018",
+      "produto": "RESIDENCIAL",
+      "seguradora": "BRADESCO",
+      "status": "GANHA"
+    },
+    {
+      "id": 2,
+      "cliente": "Ficticio Veículos",
+      "vendedor": "Leonardo",
+      "data": "17/04/2019",
+      "produto": "AUTO",
+      "seguradora": "SOMPO",
+      "status": "ABERTA"
+    }
+  ],
+  "cadastros": [
     {
       "id": 1,
       "cliente": "Antonio Melo",
