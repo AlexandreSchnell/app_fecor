@@ -82,7 +82,7 @@
       "vendedor": "Fabio",
       "data": "12/10/2018",
       "produto": "RESIDENCIAL",
-      "seguradora": "BRADESCO",
+      "seguradora": "BRADESCO"
     },
     {
       "id": 2,
@@ -90,7 +90,7 @@
       "vendedor": "Leonardo",
       "data": "17/04/2019",
       "produto": "AUTO",
-      "seguradora": "SOMPO",
+      "seguradora": "SOMPO"
     },
     {
       "id": 3,
@@ -98,7 +98,7 @@
       "vendedor": "Fabio",
       "data": "10/09/2018",
       "produto": "RESIDENCIAL",
-      "seguradora": "PORTO",
+      "seguradora": "PORTO"
     },
     {
       "id": 4,
@@ -106,7 +106,7 @@
       "vendedor": "Alexandre",
       "data": "17/08/2018",
       "produto": "VIDA",
-      "seguradora": "HDI",
+      "seguradora": "HDI"
     }
   ], 
   "profile": {
