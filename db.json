@@ -75,6 +75,40 @@
       "email": "rodrigofreitas@yahoo.com"
     }
   ],
+  "vendas": [
+    {
+      "id": 1,
+      "cliente": "Antonio Melo",
+      "vendedor": "Fabio",
+      "data": "12/10/2018",
+      "produto": "RESIDENCIAL",
+      "seguradora": "BRADESCO",
+    },
+    {
+      "id": 2,
+      "cliente": "Ficticio Veículos",
+      "vendedor": "Leonardo",
+      "data": "17/04/2019",
+      "produto": "AUTO",
+      "seguradora": "SOMPO",
+    },
+    {
+      "id": 3,
+      "cliente": "Rodrigo Freitas",
+      "vendedor": "Fabio",
+      "data": "10/09/2018",
+      "produto": "RESIDENCIAL",
+      "seguradora": "PORTO",
+    },
+    {
+      "id": 4,
+      "cliente": "Pedro Faria",
+      "vendedor": "Alexandre",
+      "data": "17/08/2018",
+      "produto": "VIDA",
+      "seguradora": "HDI",
+    }
+  ], 
   "profile": {
     "name": "typicode"
   }
